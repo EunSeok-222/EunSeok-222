@@ -2,7 +2,8 @@
 ### 이은석 (Lee Eun Seok)
 -->
  ## About me. <br>
- #### 안녕하세요.<br> <br> 프론트엔드 개발자 이은석입니다.
+ #### 안녕하세요.<br> <br> 문제 해결을 통해 사용자 경험을 설계하는 <br>
+ #### 프론트엔드 개발자 이은석입니다.
 ### 💻 Tech Stack:
 **Markup & StyleSheet**<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&amp;logo=tailwindcss&amp;logoColor=white"/>
